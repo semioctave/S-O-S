@@ -1,0 +1,3 @@
+Dependencies for Project 'SOS-ARM Cortex M4', Target 'SOS': (DO NOT MODIFY !)
+F (.\startup_TM4C123.s)(0x532C165A)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\TI\TM4C123--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d)
+F (.\main.c)(0x5A510E05)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\TI\TM4C123-DTM4C1230H6PM-o .\main.o --omf_browse .\main.crf --depend .\main.d)
